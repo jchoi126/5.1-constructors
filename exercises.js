@@ -1,3 +1,5 @@
+alert("holla")
+
 // Hey Iron Yard Hackers! Enjoy!
 // Make sure to open your js consoles!
 
